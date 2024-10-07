@@ -15,7 +15,7 @@ Technology used :
   
   <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" alt="Streamlit Image" style="border-radius: 50%; width: 100px; height: 100px;">
   
-  <img src="https://media.licdn.com/dms/image/D4D12AQGSDHcylNVfcA/article-cover_image-shrink_600_2000/0/1713710970597?e=2147483647&v=beta&t=FV__dZLzmCHa6Fm6-eqDzGa4KNLie6MFDC6SQ1FGiQI" alt="Licdn Image" style="border-radius: 50%; width: 100px; height: 100px;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*sVIaB4L9dQt-qNxSkvnyaA.png" alt="Licdn Image" style="border-radius: 50%; width: 100px; height: 100px;">
 </div>
 
 
